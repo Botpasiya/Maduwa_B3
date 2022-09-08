@@ -149,10 +149,10 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
 
         //group\\
         const groupMetadata = m.isGroup ? await GojoMdNx.groupMetadata(m.chat).catch(e => {}) : ''
-        const groupName = m.isGroup ? groupMetadata.subject : ''
+        const groupName = m.isGroup ? groupMetadata.subject : '🔰𝗤𝘂𝗲𝗲𝗻 𝗔𝗺𝗮 𝗘𝗱𝗶𝘁𝗶𝗼𝗻🔰'
         const participants = m.isGroup ? await groupMetadata.participants : ''
         const groupAdmins = m.isGroup ? await participants.filter(v => v.admin !== null).map(v => v.id) : ''
-        const groupOwner = m.isGroup ? groupMetadata.owner : ''
+        const groupOwner = m.isGroup ? groupMetadata.owner : '94701643862'
     	const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
     	const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
     	const isPremium = isCreator || global.premium.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender) || false
@@ -168,7 +168,7 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
             if (typeof user !== 'object') global.db.data.users[m.sender] = {}
             if (user) {
                 if (!isNumber(user.afkTime)) user.afkTime = -1
-                if (!('afkReason' in user)) user.afkReason = ''
+                if (!('afkReason' in user)) user.afkReason = '94701643862'
                 if (!isNumber(user.limit)) user.limit = limitUser
             } else global.db.data.users[m.sender] = {
                 afkTime: -1,
@@ -202,7 +202,7 @@ module.exports = GojoMdNx = async (GojoMdNx, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            GojoMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./GojoMedia/gojo.jpg`),"sourceUrl": "https://https://i.imgur.com/L7UKvo2.jpeg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
