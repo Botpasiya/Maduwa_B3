@@ -1,8 +1,22 @@
+## 𝗤𝘂𝗲𝗲𝗻_𝗔𝗺𝗮_𝗘𝗱𝗶𝘁𝗶𝗼𝗻
+
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://i.imgur.com/L7UKvo2.jpeg" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
+## 𝗝𝗼𝗶𝗻 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗴𝗿𝗼𝘂𝗽 
+'```𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗯𝗼𝘁
+
+___If there are people who live with childish mentality, stay away..behave decently___
+
+>°You must have heard about WhatsApp bot. If you haven't heard, try sending the two commands below to the group.
+
+.menu
+
+.alive``` 
+
+🌎 ~https://chat.whatsapp.com/C5rLhmiYCU0GSXNMECclKX~
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
